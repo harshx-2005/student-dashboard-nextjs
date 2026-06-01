@@ -139,7 +139,12 @@ npm run build
 ---
 
 ## 🖼️ Screenshots Section
-*(Add screenshots demonstrating responsive layouts across Mobile bottom bars, Tablet icons, and Desktop Bento grids)*
+<img width="1919" height="964" alt="image" src="https://github.com/user-attachments/assets/6f9fb907-0959-4678-bd23-fedcbebfdd05" />
+
+
+<img width="1919" height="959" alt="image" src="https://github.com/user-attachments/assets/4fbafc35-fcb9-4ed0-b8e7-c0d99a24d808" />
+
+
 
 ---
 
