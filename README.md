@@ -2,6 +2,8 @@
 
 A premium, production-ready, ultra-modern LMS metrics dashboard meticulously structured using the Next.js App Router, TypeScript, Tailwind CSS, Framer Motion, and Supabase. The visual layout and design language draw inspiration from elite developer utilities and SaaS platforms like Vercel, Linear, Stripe Dashboard, and Raycast.
 
+⚡ **Live Demo Link:** [student-dashboard-nextjs.vercel.app](https://student-dashboard-nextjs.vercel.app)
+
 ---
 
 ## 🌟 Project Overview
